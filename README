@@ -1,0 +1,19 @@
+=========================
+A Simple Keyframe Animation Demo
+=========================
+This program illustrates a simple keyframe animator. Just check it out.
+
+./keyframe
+
+
+==========
+COMPILING
+==========
+
+Will compile on linux with just a simple:
+
+make
+
+If, it does not compile check the linker flags in the Makefile and see if it 
+suits your system. You may have to change the include paths for other 
+systems.
